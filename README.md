@@ -3,9 +3,9 @@
 ##Latihan1.cpp : Susun algoritma untuk menginput bilangan sebanyak - banyaknya sampai kondisi dimasukkan angka 0 (nol).
 
 **Alur algoritma**
-1. Mendeklarasikan variabel 'int max, a;' sebagai variable input.
-2. Membaca input dari keyboard 'cin >> a;'
-3. Membandingkan nilai variable (max<a) max=a;
+1. Mendeklarasikan variabel `int max, a;` sebagai variable input.
+2. Membaca input dari keyboard `cin >> a;`
+3. Membandingkan nilai variable (max<a)                                                                                                                                  max=a;
 
 **Flowchart Program**
 ![Flowchart](https://raw.githubusercontent.com/Inkamanik/Praktikum4/master/Latihan1/Flowchart1.jpg)
@@ -35,8 +35,8 @@ int main()
 ###Latihan2.cpp : Susun algoritma untuk menginput sejumlah N barang, dengan rindian dua buah bilangan bulat yang masing - masing merupakan jumlah dan harga satuan suatu barang yang dibeli.
 
 **Alur algoritma**
-1. Mendeklarasikan variabel 'int jumlah_beli=0,total_beli=0,x,y,a;' sebagai variable input.
-2. Membaca input dari keyboard 'cin >> a >> jumlah_beli >> harga'
+1. Mendeklarasikan variabel `int jumlah_beli=0,total_beli=0,x,y,a;` sebagai variable input.
+2. Membaca input dari keyboard `cin >> a >> jumlah_beli >> harga`
 3. Membandingkan nilai variable  harga=0,harga_barang=0,total=0,bayar=0,diskon;
 
 **Flowchart Program**
