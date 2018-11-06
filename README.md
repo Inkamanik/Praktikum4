@@ -14,7 +14,7 @@
 ![Screenshoot](https://raw.githubusercontent.com/Inkamanik/Praktikum4/master/Latihan1/Screenshot1.png)
 
 **code program lengkap**
-'''c++
+```c++
 #include <iostream>
 using namespace std;
 int main()
@@ -46,7 +46,7 @@ int main()
 ![Screenshoot](https://raw.githubusercontent.com/Inkamanik/Praktikum4/master/Latihan2/Screenshot2.png)
 
 **code program lengkap**
-'''c++
+```c++
 #include <iostream>
 using namespace std;
 int main ()
